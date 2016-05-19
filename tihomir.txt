@@ -1,2 +1,3 @@
 Tihomir
 age 41
+weight 97
