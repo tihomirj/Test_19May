@@ -1,2 +1,4 @@
 Tihomir
 age 41
+weight 95
+eye blue
